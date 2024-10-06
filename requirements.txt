@@ -9,4 +9,8 @@ wikipedia
 langchain-text-splitters
 lxml
 langchain-openai
+langchain-community
+sentence_transformers
+langchain_huggingface
+faiss-cpu
 chromadb
