@@ -7,3 +7,6 @@ arxiv
 pymupdf
 wikipedia
 langchain-text-splitters
+lxml
+langchain-openai
+chromadb

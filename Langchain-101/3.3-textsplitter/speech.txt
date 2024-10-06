@@ -1,0 +1,6 @@
+Overview: In this project, the student model learns from multiple teacher models, each specializing in different aspects of the task. For example, one teacher could specialize in object detection, another in object classification, and a third in feature extraction.
+Novelty: The key is designing a custom loss function that weights the contributions of each teacher differently based on the task at hand. This adaptive weighting would allow the student model to benefit from diverse perspectives.
+Example: For an object detection task, you could have:
+Teacher 1 (YOLOv5): Focuses on fast bounding box detection.
+Teacher 2 (EfficientNet): Focuses on object classification accuracy.
+Teacher 3 (ResNet-50): Helps the student extract robust features from the image.
