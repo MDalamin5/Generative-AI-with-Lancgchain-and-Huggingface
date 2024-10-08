@@ -15,3 +15,6 @@ langchain_huggingface
 faiss-cpu
 chromadb
 langchain_chroma
+ipykernel
+beautifulsoup4
+sentence-transformers
