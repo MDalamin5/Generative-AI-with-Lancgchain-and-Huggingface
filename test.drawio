@@ -1,0 +1,132 @@
+<mxfile host="65bd71144e">
+    <diagram id="wlPLwNIC7rRC6j1CAjy8" name="Page-1">
+        <mxGraphModel dx="1386" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="20" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Select a topis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="130" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" style="edgeStyle=none;html=1;entryX=0.442;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5" target="6">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="213" y="280"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="7">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="520" y="280"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="Check Prerequsit" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="240" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Redirect to PT&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="360" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Asked Question" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="360" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="245" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="245" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="13" target="16">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="730" y="510"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="13" target="15">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="320" y="510"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="Student Answer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="480" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=none;html=1;" edge="1" parent="1" source="15" target="22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="33" target="7">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="180" y="590" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="320" y="390"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="Process Next Question &amp;amp; Adjust Diffultry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="560" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Feedback &amp;amp; Hints or&amp;nbsp;&lt;br&gt;multiple incorrect occur, system suggeest revisiting Previous topics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="630" y="560" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Incorecet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="480" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Correct" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="480" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="22" target="25">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Evalustion Done: Show the Learning Roadmap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="700" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="In roadmap include some topics: Incorrect answer topics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="630" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="25" target="35">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Feedback based teaching" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="840" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="" style="edgeStyle=none;html=1;entryX=0.519;entryY=1.025;entryDx=0;entryDy=0;endArrow=none;entryPerimeter=0;" edge="1" parent="1" source="15" target="33">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="460" y="390" as="targetPoint"/>
+                        <mxPoint x="260" y="590" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="200" y="590"/>
+                            <mxPoint x="200" y="470"/>
+                            <mxPoint x="320" y="470"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="33" value="6 Question and&lt;br&gt;80 Percent correct answer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="430" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="Alsways Save whre Stop learning" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="980" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="&lt;h3&gt;Interaction Flow:&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Student actions&lt;/strong&gt;: Topic selection, answering questions, asking for help, reviewing explanations.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;System actions&lt;/strong&gt;: Providing feedback, adapting content, suggesting topics, enforcing prerequisites.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="800" width="430" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="&#10;&lt;h3&gt;Example Scenario:&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;1. Student selects a topic:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Student Action&lt;/strong&gt;: The student selects &lt;strong&gt;trigonometry&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;System Response&lt;/strong&gt;: The system checks if the student has completed necessary prerequisites, like &lt;strong&gt;algebra&lt;/strong&gt; and &lt;strong&gt;geometry&lt;/strong&gt;.&lt;ul&gt;&lt;li&gt;If the prerequisites are met, the system allows the student to start learning &lt;strong&gt;trigonometry&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;If not, the system suggests studying prerequisite topics first: &quot;You need to complete &lt;strong&gt;linear equations&lt;/strong&gt; before starting trigonometry.&quot;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;2. Student answers a question:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Student Action&lt;/strong&gt;: The student answers a trigonometry question incorrectly.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;System Response&lt;/strong&gt;: The system analyzes the mistake and offers hints or explanations. If multiple incorrect answers occur, the system suggests revisiting previous topics.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;3. System adapts based on performance:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Student Action&lt;/strong&gt;: The student excels in the current topic.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;System Response&lt;/strong&gt;: The system advances the student to the next difficulty level or suggests new topics based on their success.&lt;/li&gt;&lt;/ul&gt;&#10;&#10;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="1110" width="810" height="370" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
