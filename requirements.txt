@@ -18,3 +18,5 @@ langchain_chroma
 ipykernel
 beautifulsoup4
 sentence-transformers
+langchain_groq
+langchain_core
