@@ -24,3 +24,4 @@ fastapi
 uvicorn
 langserve[all]
 sse_starlette
+sentence-transformers
