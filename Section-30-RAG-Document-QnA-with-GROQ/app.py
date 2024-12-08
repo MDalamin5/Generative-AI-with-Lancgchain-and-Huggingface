@@ -15,12 +15,12 @@ from langchain_community.llms import Ollama
 from dotenv import load_dotenv
 load_dotenv()
 # ## load groq api key
-# # os.environ["GROQ_API_KEY"]=os.getenv("GROQ_API_KEY")
-# groq_api_key = os.getenv("GROQ_API_KEY")
-# os.environ["HF_TOKEN"]=os.getenv("HF_TOKEN")
+os.environ["GROQ_API_KEY"]=os.getenv("GROQ_API_KEY")
+groq_api_key = os.getenv("GROQ_API_KEY")
+os.environ["HF_TOKEN"]=os.getenv("HF_TOKEN")
 
-# llm = ChatGroq(groq_api_key=groq_api_key, model_name="gemma2-9b-it")
-llm = Ollama(model="gemma2:2b")
+llm = ChatGroq(groq_api_key=groq_api_key, model_name="gemma2-9b-it")
+# llm = Ollama(model="gemma2:2b")
 
 prompt = ChatPromptTemplate.from_template(
     """
