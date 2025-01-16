@@ -38,3 +38,6 @@ cassio
 datasets
 tiktoken
 langchain_nvidia_ai_endpoints
+pinecone-client
+pinecone-text
+pinecone-notebooks
