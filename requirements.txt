@@ -41,3 +41,4 @@ langchain_nvidia_ai_endpoints
 pinecone-client
 pinecone-text
 pinecone-notebooks
+neo4j==5.14
