@@ -1,0 +1,50 @@
+1. Basic Theory of State Machines
+1.1. What is a state machine?
+A state machine is a model of behavior composed of:
+
+States: The system’s possible situations or modes.
+Events (or inputs): Triggers that cause changes.
+Transitions: The rules for moving from one state to another when an event occurs.
+1.2. Key Components
+
+State: A condition in which your system can remain for some period. (e.g., “RED” in a traffic light)
+Event: Something that happens that might cause a transition. (e.g., “Timer Expired”)
+Transition: The rule that says “If the system is in State A and Event X occurs, move to State B.”
+1.3. Deterministic vs. Nondeterministic Machines (Briefly)
+
+Deterministic: From a given state with a given event, there is exactly one next state.
+Nondeterministic: From a given state with a given event, there could be multiple valid next states (less common in typical programming, more of a formal automata theory topic).
+1.4. “Finite” vs. “Extended” State Machines
+
+A finite state machine has a limited number of states.
+Real-world systems often use “extended” state machines that include data variables and conditions. But the core concept is the same.
+Exercise: In your notebook or a simple text file, list out 2–3 everyday scenarios that can be modeled by states and transitions (e.g., “door” states: Locked, Unlocked). Identify possible events (LockDoor, UnlockDoor, BreakIn, etc.) to get comfortable with the idea.
+
+2. Designing a Simple State Machine
+2.1. Real-World Example: Traffic Light
+
+States: RED, GREEN, YELLOW
+Events: timer_expired, emergency_override
+Transitions:
+RED + timer_expired → GREEN
+GREEN + timer_expired → YELLOW
+YELLOW + timer_expired → RED
+ANY_STATE + emergency_override → RED
+2.2. Listing Events and Transitions
+Write them in a table or dictionary format:
+
+Current State	Event	Next State
+RED	timer_expired	GREEN
+GREEN	timer_expired	YELLOW
+YELLOW	timer_expired	RED
+Any	emergency_override	RED
+2.3. Drawing a State Diagram
+Diagram:
+
+markdown
+Copy
+   [RED] ----timer_expired----> [GREEN]
+     ^                             |
+     | (emergency_override)        | timer_expired
+     |_________________________ [YELLOW] 
+Exercise: Sketch the traffic light diagram on paper or a whiteboard. Add any additional transitions you think make sense.
