@@ -1,0 +1,880 @@
+text
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify x^3 + 7x^2 - 2x^3.
+<|end|>
+
+<|assistant|>
+First, combine like terms x^3 and -2x^3 to get -x^3. That yields -x^3 + 7x^2. Then, factor out x^2 to get x^2(7 - x). Do you understand this step? (Yes, I understood this step/No, I did not understand this step/Explain More)
+<|end|>
+
+<|user|>
+I'm a bit confused about how x^3 and -2x^3 become -x^3.
+<|end|>
+
+<|assistant|>
+We add their coefficients: 1 + (-2) = -1, so x^3 + -2x^3 = -x^3. Does that clarify?
+<|end|>
+
+<|user|>
+Yes, that makes sense now.
+<|end|>
+
+<|assistant|>
+Great! The simplified expression is x^2(7 - x). Good work! Would you like to try another problem?
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify x^3 + 7x^2 - 2x^3.
+<|end|>
+
+<|assistant|>
+We can tackle this by first combining like terms. Do you have any idea which terms are alike?
+<|end|>
+
+<|user|>
+I'm not sure; can I get a hint?
+<|end|>
+
+<|assistant|>
+Of course! Look at x^3 and -2x^3. When you add them, what do you get?
+<|end|>
+
+<|user|>
+x^3 plus -2x^3 is -x^3.
+<|end|>
+
+<|assistant|>
+Exactly! So the expression becomes -x^3 + 7x^2. Now, what is the greatest common factor in both terms?
+<|end|>
+
+<|user|>
+They both share x^2.
+<|end|>
+
+<|assistant|>
+Perfect! Factoring out x^2 gives x^2(7 - x). That’s our simplified expression.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify x^3 + 7x^2 - 2x^3.
+<|end|>
+
+<|assistant|>
+First, combine like terms x^3 and -2x^3 to get -x^3. That leaves -x^3 + 7x^2. Then we can factor out x^2, giving x^2(7 - x). Do you understand this approach?
+<|end|>
+
+<|user|>
+I’m not really understanding the factoring part. Is there another way?
+<|end|>
+
+<|assistant|>
+Sure! Another approach is to reorder the expression as (x^3 - 2x^3) + 7x^2 = -x^3 + 7x^2. From there, notice that each term has x^2. Does that help clarify the factoring?
+<|end|>
+
+<|user|>
+Yes, it’s clearer now.
+<|end|>
+
+<|assistant|>
+Great! So the simplified form is x^2(7 - x).
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify x^3 + 7x^2 - 2x^3.
+<|end|>
+
+<|assistant|>
+Combine x^3 and -2x^3 to get -x^3, so the expression becomes -x^3 + 7x^2. Then, we can factor out x^2 to get x^2(7 - x).
+<|end|>
+
+<|user|>
+Wait, why are we allowed to just add x^3 and -2x^3? Aren’t they different terms?
+<|end|>
+
+<|assistant|>
+They’re actually like terms because they both have x^3. We add or subtract their coefficients: 1 + (-2) = -1. That’s why x^3 + -2x^3 = -x^3. Does that make sense?
+<|end|>
+
+<|user|>
+Yes, that helps.
+<|end|>
+
+<|assistant|>
+Great! So the simplified expression is x^2(7 - x).
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify x^3 + 7x^2 - 2x^3.
+<|end|>
+
+<|assistant|>
+First, combine x^3 and -2x^3 to get -x^3. Then the expression is -x^3 + 7x^2, which can be factored as x^2(7 - x).
+<|end|>
+
+<|user|>
+Can you explain how you combined x^3 and -2x^3 again? I want to be sure I follow.
+<|end|>
+
+<|assistant|>
+Of course! Think of x^3 as 1x^3. Adding 1x^3 and -2x^3 is simply 1 + (-2) = -1, so it becomes -x^3.
+<|end|>
+
+<|user|>
+Got it. That makes sense now.
+<|end|>
+
+<|assistant|>
+Great! The simplified expression is x^2(7 - x).
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify (2x)^2 - 2x^2.
+<|end|>
+
+<|assistant|>
+Sure! First, expand (2x)^2 to get 4x^2. Then subtract 2x^2, leaving 4x^2 - 2x^2 = 2x^2. Do you understand this step? (Yes/No/Explain More)
+<|end|>
+
+<|user|>
+Yes, it’s clear.
+<|end|>
+
+<|assistant|>
+Great! The simplified expression is 2x^2.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify (2x)^2 - 2x^2.
+<|end|>
+
+<|assistant|>
+We can approach this by carefully expanding the first term. Do you know how to expand (2x)^2?
+<|end|>
+
+<|user|>
+I’m not totally sure; maybe it’s 2x^2?
+<|end|>
+
+<|assistant|>
+Remember that (2x)^2 = (2x)*(2x). Try multiplying the numbers and the variables separately.
+<|end|>
+
+<|user|>
+So 2 × 2 = 4, and x × x = x^2. That means (2x)^2 = 4x^2.
+<|end|>
+
+<|assistant|>
+Exactly! Now subtract 2x^2. What do you get?
+<|end|>
+
+<|user|>
+4x^2 - 2x^2 = 2x^2.
+<|end|>
+
+<|assistant|>
+Perfect! That’s the simplified expression.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify (2x)^2 - 2x^2.
+<|end|>
+
+<|assistant|>
+One way is to expand (2x)^2 to 4x^2, then subtract 2x^2, yielding 2x^2. Would you like an alternative method?
+<|end|>
+
+<|user|>
+Yes, I'd like to see another way.
+<|end|>
+
+<|assistant|>
+We can also factor out 2x^2 directly. (2x)^2 is 4x^2, so think of it as 2x^2( something ) - 2x^2( 1 ).
+<|end|>
+
+<|user|>
+So (2x)^2 = 4x^2, which is 2x^2 * 2. And -2x^2 is 2x^2 * -1.
+<|end|>
+
+<|assistant|>
+Exactly! Inside the parentheses, you end up with 2 - 1 = 1. Multiply by 2x^2 and you get 2x^2 again.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify (2x)^2 - 2x^2.
+<|end|>
+
+<|assistant|>
+First, (2x)^2 = 4x^2. Then subtract 2x^2, leaving 2x^2.
+<|end|>
+
+<|user|>
+How are we allowed to combine 4x^2 and -2x^2? Aren’t they different?
+<|end|>
+
+<|assistant|>
+They’re both x^2 terms, so we just subtract their numerical coefficients: 4 - 2 = 2. That’s why it becomes 2x^2.
+<|end|>
+
+<|user|>
+Alright, that makes sense now.
+<|end|>
+
+<|assistant|>
+Excellent! So the simplified expression is 2x^2.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify (2x)^2 - 2x^2.
+<|end|>
+
+<|assistant|>
+Sure! First, expand (2x)^2 to get 4x^2. Then we subtract 2x^2, which leaves 2x^2.
+<|end|>
+
+<|user|>
+Could you explain the expansion of (2x)^2 again?
+<|end|>
+
+<|assistant|>
+(2x)^2 means (2x)*(2x). Multiply 2 by 2 for 4, and x by x for x^2, giving 4x^2.
+<|end|>
+
+<|user|>
+Great, that’s clear now.
+<|end|>
+
+<|assistant|>
+Excellent! So the expression simplifies to 2x^2.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify (2x)^2 - 2x^2.
+<|end|>
+
+<|assistant|>
+First, expand (2x)^2 to get 4x^2, then subtract 2x^2, giving 2x^2.
+<|end|>
+
+<|user|>
+Should we divide both terms by x first?
+<|end|>
+
+<|assistant|>
+That won’t simplify as effectively. We want to handle the exponent properly by expanding (2x)^2. Once expanded, we just combine like terms.
+<|end|>
+
+<|user|>
+So it's just 4x^2 - 2x^2 = 2x^2?
+<|end|>
+
+<|assistant|>
+Exactly! That's the final simplified form.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify (2x)^2 - 2x^2.
+<|end|>
+
+<|assistant|>
+Let’s break this down step by step. First, (2x)^2 means (2x)*(2x).
+<|end|>
+
+<|user|>
+I’m not sure how to handle that exponent.
+<|end|>
+
+<|assistant|>
+No worries. 2 × 2 = 4, and x × x = x^2, so (2x)^2 = 4x^2.
+<|end|>
+
+<|user|>
+Okay, I follow now.
+<|end|>
+
+<|assistant|>
+Great! Now the expression is 4x^2 - 2x^2. Since they're both x^2 terms, we subtract their coefficients: 4 - 2 = 2.
+<|end|>
+
+<|user|>
+So that’s 2x^2. Right?
+<|end|>
+
+<|assistant|>
+Exactly! The simplified form is 2x^2.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify (3y)^2 + x^2 - (2y)^2.
+<|end|>
+
+<|assistant|>
+Expand the squared terms: (3y)^2 = 9y^2 and (2y)^2 = 4y^2. The expression becomes 9y^2 + x^2 - 4y^2.
+<|end|>
+
+<|assistant|>
+Combine like terms: 9y^2 - 4y^2 = 5y^2. So the simplified expression is 5y^2 + x^2. Do you understand this step?
+<|end|>
+
+<|user|>
+Yes, I got it.
+<|end|>
+
+<|assistant|>
+Great! The final answer is 5y^2 + x^2.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify (3y)^2 + x^2 - (2y)^2.
+<|end|>
+
+<|assistant|>
+First, expand the squared terms. Do you know how to calculate (3y)^2 and (2y)^2?
+<|end|>
+
+<|user|>
+Not sure, can you give me a hint?
+<|end|>
+
+<|assistant|>
+Sure! For (3y)^2, square the number and the variable separately: 3^2 = 9 and y^2 stays as y^2, so (3y)^2 = 9y^2. Similarly, for (2y)^2, 2^2 = 4, so (2y)^2 = 4y^2.
+<|end|>
+
+<|user|>
+Oh, I see. So it’s 9y^2 + x^2 - 4y^2.
+<|end|>
+
+<|assistant|>
+That’s right! Now combine the y^2 terms: 9y^2 - 4y^2 = 5y^2. The simplified expression is 5y^2 + x^2.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify (3y)^2 + x^2 - (2y)^2.
+<|end|>
+
+<|assistant|>
+Expand the squared terms: (3y)^2 = 9y^2 and (2y)^2 = 4y^2. This makes the expression 9y^2 + x^2 - 4y^2. Then combine like terms to get 5y^2 + x^2.
+<|end|>
+
+<|user|>
+Is there another way to simplify this?
+<|end|>
+
+<|assistant|>
+Sure! You could treat (3y)^2 - (2y)^2 as a difference of squares: ((3y) + (2y)) * ((3y) - (2y)). This simplifies to (5y) * (y) = 5y^2. Then add x^2, giving 5y^2 + x^2.
+<|end|>
+
+<|user|>
+Oh, I see! That’s helpful. Thanks!
+<|end|>
+
+<|assistant|>
+You’re welcome! The final simplified expression is 5y^2 + x^2.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify (3y)^2 + x^2 - (2y)^2.
+<|end|>
+
+<|assistant|>
+First, expand the squared terms: (3y)^2 = 9y^2 and (2y)^2 = 4y^2. The expression becomes 9y^2 + x^2 - 4y^2.
+<|end|>
+
+<|user|>
+Wait, why does (3y)^2 become 9y^2? Shouldn’t it just be 6y?
+<|end|>
+
+<|assistant|>
+That’s a good question! Squaring (3y) means multiplying (3y) by itself: 3 * 3 = 9 and y * y = y^2. So it becomes 9y^2, not 6y.
+<|end|>
+
+<|user|>
+Oh, I get it now. And (2y)^2 would be 4y^2, right?
+<|end|>
+
+<|assistant|>
+Exactly! Now combine 9y^2 - 4y^2 to get 5y^2. Add x^2, and the simplified expression is 5y^2 + x^2.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify (3y)^2 + x^2 - (2y)^2.
+<|end|>
+
+<|assistant|>
+Expand the squared terms: (3y)^2 = 9y^2 and (2y)^2 = 4y^2. The expression becomes 9y^2 + x^2 - 4y^2.
+<|end|>
+
+<|user|>
+Can you explain the (3y)^2 part again?
+<|end|>
+
+<|assistant|>
+Sure! (3y)^2 means (3y) * (3y). Multiply the numbers: 3 * 3 = 9. Multiply the variables: y * y = y^2. So (3y)^2 = 9y^2.
+<|end|>
+
+<|user|>
+Got it! So now it’s 9y^2 + x^2 - 4y^2.
+<|end|>
+
+<|assistant|>
+Exactly! Combine 9y^2 - 4y^2 to get 5y^2. Add x^2, and the simplified expression is 5y^2 + x^2.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify (3y)^2 + x^2 - (2y)^2.
+<|end|>
+
+<|assistant|>
+Expand the squared terms: (3y)^2 = 9y^2 and (2y)^2 = 4y^2. The expression becomes 9y^2 + x^2 - 4y^2.
+<|end|>
+
+<|user|>
+Should we divide by y to simplify this?
+<|end|>
+
+<|assistant|>
+Not quite! Dividing by y would change the expression unless y ≠ 0. Instead, focus on combining like terms. 9y^2 - 4y^2 = 5y^2. The final expression is 5y^2 + x^2.
+<|end|>
+
+<|user|>
+Oh, I see now.
+<|end|>
+
+<|assistant|>
+Good! So the simplified expression is 5y^2 + x^2.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify (3y)^2 + x^2 - (2y)^2.
+<|end|>
+
+<|assistant|>
+Let’s break it down step by step. First, expand (3y)^2 and (2y)^2.
+<|end|>
+
+<|user|>
+I’m not sure how to do that.
+<|end|>
+
+<|assistant|>
+No worries! For (3y)^2, square the coefficient (3) to get 9, and square y to get y^2. So (3y)^2 = 9y^2. Similarly, (2y)^2 = 4y^2.
+<|end|>
+
+<|user|>
+Oh, I see. So it’s 9y^2 + x^2 - 4y^2.
+<|end|>
+
+<|assistant|>
+Exactly! Combine 9y^2 - 4y^2 to get 5y^2. Add x^2, and the simplified expression is 5y^2 + x^2. Does that make sense?
+<|end|>
+
+<|user|>
+Yes, thank you for explaining!
+<|end|>
+
+<|assistant|>
+You’re welcome! The final simplified expression is 5y^2 + x^2.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify 3/x^2 + 5/x^2.
+<|end|>
+
+<|assistant|>
+Notice that the denominators are the same, so we can combine the numerators: 3 + 5 = 8. This gives 8/x^2. Do you understand this step?
+<|end|>
+
+<|user|>
+Yes, I got it.
+<|end|>
+
+<|assistant|>
+Great! The final simplified expression is 8/x^2.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify 3/x^2 + 5/x^2.
+<|end|>
+
+<|assistant|>
+Since the denominators are the same, we can combine the fractions. Do you know what happens to the numerators?
+<|end|>
+
+<|user|>
+Not sure, can you give me a hint?
+<|end|>
+
+<|assistant|>
+When the denominators are the same, you just add the numerators: 3 + 5 = 8.
+<|end|>
+
+<|user|>
+Oh, so it becomes 8/x^2?
+<|end|>
+
+<|assistant|>
+Exactly! The simplified expression is 8/x^2.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify 3/x^2 + 5/x^2.
+<|end|>
+
+<|assistant|>
+One way is to combine the numerators since the denominators are the same: 3 + 5 = 8, so it becomes 8/x^2.
+<|end|>
+
+<|user|>
+Is there another way to look at this?
+<|end|>
+
+<|assistant|>
+Sure! Think of this as factoring out 1/x^2: (3/x^2 + 5/x^2) = (1/x^2)(3 + 5).
+<|end|>
+
+<|user|>
+Oh, I see. So 3 + 5 = 8, and it becomes 8/x^2?
+<|end|>
+
+<|assistant|>
+Exactly! The final simplified expression is 8/x^2.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify 3/x^2 + 5/x^2.
+<|end|>
+
+<|assistant|>
+Notice the denominators are the same, so you can combine the numerators: 3 + 5 = 8. This gives 8/x^2.
+<|end|>
+
+<|user|>
+Wait, shouldn’t the denominator also change?
+<|end|>
+
+<|assistant|>
+That’s a good question! When adding fractions with the same denominator, the denominator stays the same, and only the numerators are added.
+<|end|>
+
+<|user|>
+Oh, I see now. So it’s 8/x^2.
+<|end|>
+
+<|assistant|>
+Exactly! The simplified expression is 8/x^2.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify 3/x^2 + 5/x^2.
+<|end|>
+
+<|assistant|>
+Since the denominators are the same, you just add the numerators: 3 + 5 = 8, so it becomes 8/x^2.
+<|end|>
+
+<|user|>
+Can you explain why we can add the numerators?
+<|end|>
+
+<|assistant|>
+Sure! When two fractions have the same denominator, they can be combined into a single fraction with that denominator. The numerator is the sum of the two numerators.
+<|end|>
+
+<|user|>
+Got it. That makes sense now.
+<|end|>
+
+<|assistant|>
+Great! So the simplified expression is 8/x^2.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify 3/x^2 + 5/x^2.
+<|end|>
+
+<|assistant|>
+Notice that the denominators are the same, so you can add the numerators: 3 + 5 = 8, giving 8/x^2.
+<|end|>
+
+<|user|>
+Shouldn’t we multiply the denominators too?
+<|end|>
+
+<|assistant|>
+Not quite. Multiplying denominators happens when multiplying fractions. Since we’re adding fractions here, the denominator stays the same, and only the numerators are added.
+<|end|>
+
+<|user|>
+Oh, I see now. So it’s 8/x^2.
+<|end|>
+
+<|assistant|>
+Exactly! The final simplified expression is 8/x^2.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify 3/x^2 + 5/x^2.
+<|end|>
+
+<|assistant|>
+Let’s break it down step by step. First, do you notice that the denominators are the same?
+<|end|>
+
+<|user|>
+Yes, both are x^2.
+<|end|>
+
+<|assistant|>
+That’s correct. When the denominators are the same, you can combine the numerators: 3 + 5 = 8. Does that make sense?
+<|end|>
+
+<|user|>
+Kind of. Why doesn’t the denominator change?
+<|end|>
+
+<|assistant|>
+Good question! The denominator stays the same because we’re adding parts of the same whole. Imagine 3/x^2 and 5/x^2 as slices of a pie, where each slice is 1/x^2. Adding the slices doesn’t change their size, only their quantity.
+<|end|>
+
+<|user|>
+Oh, that makes sense now! So the answer is 8/x^2.
+<|end|>
+
+<|assistant|>
+Exactly! The final simplified expression is 8/x^2.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify 3x(x - 1) - 7x^2.
+<|end|>
+
+<|assistant|>
+Start by expanding 3x(x - 1): 3x(x - 1) = 3x^2 - 3x. Substituting this gives 3x^2 - 3x - 7x^2.
+<|end|>
+
+<|assistant|>
+Combine like terms: 3x^2 - 7x^2 = -4x^2. The final expression is -4x^2 - 3x. Do you understand this step?
+<|end|>
+
+<|user|>
+Yes, I got it.
+<|end|>
+
+<|assistant|>
+Great! The simplified expression is -4x^2 - 3x.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify 3x(x - 1) - 7x^2.
+<|end|>
+
+<|assistant|>
+First, expand 3x(x - 1). Do you know how to distribute 3x?
+<|end|>
+
+<|user|>
+Not sure, can you give me a hint?
+<|end|>
+
+<|assistant|>
+Sure! Multiply 3x by each term inside the parentheses: 3x * x = 3x^2 and 3x * -1 = -3x. So 3x(x - 1) = 3x^2 - 3x.
+<|end|>
+
+<|user|>
+Oh, I see. So it becomes 3x^2 - 3x - 7x^2.
+<|end|>
+
+<|assistant|>
+Exactly! Now combine the x^2 terms: 3x^2 - 7x^2 = -4x^2. The final expression is -4x^2 - 3x.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify 3x(x - 1) - 7x^2.
+<|end|>
+
+<|assistant|>
+One way is to expand 3x(x - 1) into 3x^2 - 3x, then subtract 7x^2 to get -4x^2 - 3x.
+<|end|>
+
+<|user|>
+Is there another way to look at this?
+<|end|>
+
+<|assistant|>
+Sure! You can factor out x first: 3x(x - 1) - 7x^2 = x(3(x - 1) - 7x). Simplify inside the parentheses: 3(x - 1) = 3x - 3, so 3x - 3 - 7x = -4x - 3.
+<|end|>
+
+<|assistant|>
+Factored form is x(-4x - 3), which expands back to -4x^2 - 3x.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify 3x(x - 1) - 7x^2.
+<|end|>
+
+<|assistant|>
+Start by expanding 3x(x - 1): 3x * x = 3x^2 and 3x * -1 = -3x. This gives 3x^2 - 3x - 7x^2.
+<|end|>
+
+<|user|>
+Wait, why does 3x^2 - 7x^2 give -4x^2?
+<|end|>
+
+<|assistant|>
+Good question! When combining like terms, you add or subtract their coefficients: 3 - 7 = -4. That’s why 3x^2 - 7x^2 = -4x^2.
+<|end|>
+
+<|user|>
+Oh, I see now. Thanks!
+<|end|>
+
+<|assistant|>
+You’re welcome! The simplified expression is -4x^2 - 3x.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify 3x(x - 1) - 7x^2.
+<|end|>
+
+<|assistant|>
+First, expand 3x(x - 1) to get 3x^2 - 3x. Then subtract 7x^2: 3x^2 - 3x - 7x^2 = -4x^2 - 3x.
+<|end|>
+
+<|user|>
+Can you explain the expansion of 3x(x - 1) again?
+<|end|>
+
+<|assistant|>
+Sure! Distribute 3x to both terms in the parentheses: 3x * x = 3x^2 and 3x * -1 = -3x. So 3x(x - 1) = 3x^2 - 3x.
+<|end|>
+
+<|user|>
+Got it. That makes sense now.
+<|end|>
+
+<|assistant|>
+Great! Combining like terms, the simplified expression is -4x^2 - 3x.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
+
+<|user|>
+Simplify 3x(x - 1) - 7x^2.
+<|end|>
+
+<|assistant|>
+Start by expanding 3x(x - 1): 3x(x - 1) = 3x^2 - 3x. Substituting this gives 3x^2 - 3x - 7x^2.
+<|end|>
+
+<|user|>
+Shouldn’t we divide everything by x first?
+<|end|>
+
+<|assistant|>
+Not quite. Dividing by x simplifies if x ≠ 0, but here it’s better to expand and combine terms first. Expanding gives 3x^2 - 3x - 7x^2 = -4x^2 - 3x.
+<|end|>
+
+<|user|>
+Oh, I see. So we combine 3x^2 - 7x^2 first?
+<|end|>
+
+<|assistant|>
+Exactly! That simplifies to -4x^2, and the final expression is -4x^2 - 3x.
+<|end|>"
+"<|system|>
+You are a helpful tutor for solving algebra.
+<|end|>
