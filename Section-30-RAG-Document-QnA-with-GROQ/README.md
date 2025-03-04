@@ -26,8 +26,8 @@ To run this project locally, follow the steps below:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <project_directory>
+   git clone https://github.com/MDalamin5/Generative-AI-with-Lancgchain-and-Huggingface
+   cd Section-30-RAG-Document-QnA-with-GROQ
    ```
 
 2. Install the required dependencies:
