@@ -45,3 +45,4 @@ neo4j==5.14
 pydantic
 wolframalpha
 grandalf
+langchain-anthropic
