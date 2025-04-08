@@ -46,3 +46,4 @@ pydantic
 wolframalpha
 grandalf
 langchain-anthropic
+langchain-experimental
