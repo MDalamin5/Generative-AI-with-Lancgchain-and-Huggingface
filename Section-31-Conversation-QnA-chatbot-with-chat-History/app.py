@@ -30,9 +30,9 @@ api_key=st.text_input("Enter your Groq API key:",type="password")
 
 ## Check if groq api key is provided
 if api_key:
-    # llm=ChatGroq(groq_api_key=api_key,model_name="Gemma2-9b-It")
+    llm=ChatGroq(groq_api_key=api_key,model_name="deepseek-r1-distill-llama-70b")
     # model=st.sidebar.selectbox("Select an open AI Model", ["gemma2:2b", "gpt-4-turbo", "gpt-4"])
-    llm = Ollama(model="gemma2:2b")
+    # llm = Ollama(model="gemma2:2b")
 
     ## chat interface
 
