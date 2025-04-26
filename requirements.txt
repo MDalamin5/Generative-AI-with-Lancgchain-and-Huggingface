@@ -47,3 +47,4 @@ wolframalpha
 grandalf
 langchain-anthropic
 langchain-experimental
+youtube-transcript-api
