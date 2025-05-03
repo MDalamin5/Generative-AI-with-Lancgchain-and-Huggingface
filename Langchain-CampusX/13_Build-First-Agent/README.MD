@@ -18,9 +18,7 @@ The agent follows a ReAct (Reasoning and Acting) prompting strategy, allowing it
 *   **Secure API Key Handling:** Requires users to enter their own API keys via the sidebar, ensuring keys are not hardcoded.
 *   **Fast LLM Inference:** Leverages the Groq API for speedy language model responses.
 
-## 📸 Screenshots
 
-*(Add actual screenshots of your running application here)*
 
 **Example Placeholder:**
 
